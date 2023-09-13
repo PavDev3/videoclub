@@ -1,4 +1,4 @@
-const API_REST = 'http://www.omdbapi.com/?apikey=1b2f6d7b&s='
+const API_REST = 'https://www.omdbapi.com/?apikey=1b2f6d7b&s='
 
 export const searchMovies = async ({ search }) => {
     if (search === '') return null
