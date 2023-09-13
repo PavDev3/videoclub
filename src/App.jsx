@@ -5,9 +5,9 @@ import { UserSearch } from './hooks/userSearch'
 import { useState } from 'react'
 
 function App() {
-  const [sort, setSort] = useState(false)
+  const [ sort, setSort ] = useState(false)
   const { search, updateSearch, error} = UserSearch()
-  const { movies , loading, getMovies } = useMovies({ search })
+  const { movies , loading, getMovies } = useMovies({ search, sort })
 
 
   const handleSubmit = (event) => {
