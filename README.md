@@ -7,7 +7,7 @@ Videoclub is a platform that offers a wide range of movies and TV shows for stre
 
 #### Your Environment Variable
 
-API a usar: - https://www.omdbapi.com/
+API: - https://www.omdbapi.com/
 API Key: 1b2f6d7b
 
 ## 🚀 Run Locally
