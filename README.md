@@ -1,13 +1,27 @@
-Proyecto de buscador de peliculas.
+
+# 📌 Overview
+
+Videoclub is a platform that offers a wide range of movies and TV shows for streaming, providing users with an immersive entertainment experience.
+
+## ⚙️ Setting Up
+
+#### Your Environment Variable
 
 API a usar: - https://www.omdbapi.com/
 API Key: 1b2f6d7b
 
-http://www.omdbapi.com/?apikey=1b2f6d7b&s=
+## 🚀 Run Locally
+1.Clone the videoclub repository:
+```sh
+git clone https://github.com/PavDev3/videoclub
+```
+2.Install the dependencies with one of the package managers listed below:
+```sh 
+Insert INSTALL commands 
+```
+3.Start the development mode:
+```sh 
+Insert RUN commands 
+```
 
-------------------------------------------------------------
 
-Se compone de: 
-- Input para buscar peliculas y boton de buscar.
-- Listado de peliculas
-- Mostrado en un Grid responsive
